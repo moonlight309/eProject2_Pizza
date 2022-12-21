@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9383bdd5-577e-441d-bb74-6492b0243bab" name="Default Changelist" comment="fix bug tìm mã giảm" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/temp/eProject2_Pizza" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1rODIhwWezN0QuaFu9QI1wN7n5q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaFX/eProject2_C2109L_Nhom1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LapTrinhJava\DoAn_QuanLyBanPizza\image" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="HoaDonDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAO.HoaDonDAO" />
+      <module name="DoAn_QuanLyBanPizza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoadingGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.LoadingGUI" />
+      <module name="DoAn_QuanLyBanPizza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="DoAn_QuanLyBanPizza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAO.MyConnect" />
+      <module name="DoAn_QuanLyBanPizza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaiKhoanBUS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BUS.TaiKhoanBUS" />
+      <module name="DoAn_QuanLyBanPizza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BUS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LoadingGUI" />
+        <item itemvalue="Application.TaiKhoanBUS" />
+        <item itemvalue="Application.HoaDonDAO" />
+        <item itemvalue="Application.MyConnect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9383bdd5-577e-441d-bb74-6492b0243bab" name="Default Changelist" comment="" />
+      <created>1618838166860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618838166860</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Done nhập xuất Excel + nhớ login">
+      <created>1619007739144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619007739144</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Thêm đọc dữ liệu Connect từ file">
+      <created>1619009070720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619009070720</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done chức năng bán hàng + ghi hoá đơn">
+      <created>1619066971614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619066971614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update database">
+      <created>1619067384010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619067384010</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Quản lý nhân viên(Tài khoản), Khách, Phân quyền động">
+      <created>1619199256897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619199256897</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix bug bán hàng, xong Khuyến mãi">
+      <created>1619277252600</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619277252600</updated>
+    </task>
+    <task id="LOCAL-00007" summary="base nhẹ thống kê">
+      <created>1619543193917</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619543193918</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Xong front-end thống kê">
+      <created>1619604182799</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619604182799</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix GUI thống kê">
+      <created>1619838525127</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619838525127</updated>
+    </task>
+    <task id="LOCAL-00010" summary="cập nhật biểu đồ thống kê">
+      <created>1619930902229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619930902229</updated>
+    </task>
+    <task id="LOCAL-00011" summary="xoá class thừa">
+      <created>1619956667056</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619956667056</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix bug tìm mã giảm">
+      <created>1621218231318</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1621218231318</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Done nhập xuất Excel + nhớ login" />
+    <MESSAGE value="Thêm đọc dữ liệu Connect từ file" />
+    <MESSAGE value="Done chức năng bán hàng + ghi hoá đơn" />
+    <MESSAGE value="Update database" />
+    <MESSAGE value="Quản lý nhân viên(Tài khoản), Khách, Phân quyền động" />
+    <MESSAGE value="fix bug bán hàng, xong Khuyến mãi" />
+    <MESSAGE value="base nhẹ thống kê" />
+    <MESSAGE value="Xong front-end thống kê" />
+    <MESSAGE value="fix GUI thống kê" />
+    <MESSAGE value="cập nhật biểu đồ thống kê" />
+    <MESSAGE value="xoá class thừa" />
+    <MESSAGE value="fix bug tìm mã giảm" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bug tìm mã giảm" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/QuanLyPizza/GUI/PnQuanLyBanHangGUI.java</url>
+          <line>1074</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/QuanLyPizza/GUI/PnQuanLyBanHangGUI.java</url>
+          <line>1072</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Integer.parseInt(donGia)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
